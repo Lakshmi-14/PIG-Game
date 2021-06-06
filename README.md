@@ -11,3 +11,16 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 */
+
+This is the introduction session to github
+asdkfjhalkdsfn
+asd
+f
+asdf
+a
+sdf
+asd
+fa
+sdf
+as
+df
